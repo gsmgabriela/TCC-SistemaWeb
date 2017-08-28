@@ -1,0 +1,205 @@
+.assoc{
+    margin-left: 25%;
+    width: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #5bc0de;
+    color: whitesmoke;
+
+    border-radius: 6px;
+
+}
+
+.novab{
+
+    width: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-left: 5%;
+    background-color: red;
+    color: whitesmoke;
+
+    border-radius: 6px;
+}
+
+.btn-info:hover{
+    background-color: dimgray;
+}
+
+.cep{
+    width: 25%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+    margin-top: 3px;
+
+}
+
+.buscarCep{
+    width: 8%;
+    margin-left: 5%;
+    margin-top: -8px;
+}
+
+.opcoesGeral{
+    width: 100%;
+    float: left;
+    margin-right: 30%;
+}
+.formOpcoesGeral{
+    width: 20em;
+}
+.menuEntregas{
+    height: 0.5em;
+}
+
+.opcoesBuscaEntrega {
+    width: 70%;
+    margin-top: -8em;
+    float: left;
+    margin-left:10%;
+    margin-right:10%;
+
+}
+/*.superiorEntrega{*/
+    /*height: 8em;*/
+    /*padding-bottom: 3em;*/
+    /*background-color: #23527c;*/
+/*}*/
+.opcoesBuscaEntrega select{
+
+    width:18em;
+    height: 2.1em;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    margin-top: 3px;
+
+}
+.opcoesBuscaEntrega input{
+    width:16em;
+    height: 2em;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    margin-top: 3px;
+}
+
+/*.opcoesBuscaEntrega  button{*/
+    /*margin-top: -7.2em;*/
+    /*margin-left: 58em;*/
+/*}*/
+
+.formAddEntrega{
+    margin-top: -14.5em;
+    margin-left: 82%;
+}
+
+.formAdd{
+    margin-top: -14em;
+    margin-right: -227.5em;
+}
+
+.formCadastros{
+    margin-top: 9em;
+    margin-left: 40%;
+    margin-right: 20%;
+}
+
+.formCadastros input{
+    margin-left: 5px;
+    width: 18em;
+}
+
+.formCadastros textarea{
+    margin-left: 5px;
+    width: 18em;
+
+}
+.formCadastros select{
+    width:18em;
+    height: 2em;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    margin-top: 3px;
+}
+
+.formCadastros button{
+    margin-left: 0.3em;
+    margin-top: 1%;
+    width: 18em;
+
+}
+
+
+.tituloTabela{
+    text-align: center;
+    background-color: lightyellow;
+}
+
+
+.posTable{
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 9em;
+    margin-bottom: -7em;
+
+}
+
+
+/* TELA DE REGISTRO DE ENTREGAS   */
+
+.formBuscaPedido{
+    margin-top: 1.2em;
+    float: left;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.formBuscaPedido input{
+     margin-left: 1em;
+     width: 8em;
+ }
+
+.formBuscaPedido Button{
+    height: 2em;
+    margin-left: 1em;
+    width: 5em;
+}
+.tabelasEntrega{
+    margin-top: 6em;
+}
+
+.posTableNovaEntrega{
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: 7em;
+    margin-bottom: -7em;
+}
+
+.tituloTabela{
+    text-align: center;
+    background-color: lightyellow;
+}
+
+.formNovaEntrega{
+    margin-top: 8em;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.formNovaEntrega input{
+    margin-left: 2em;
+    width: 10em;
+}
+
+.formNovaEntrega select{
+    width: 18em;
+    margin-left: 2em;
+}
+
+.formNovaEntrega button{
+    width: 60%;
+    margin-top: 2em;
+    margin-left:20%;
+    margin-right:20%;
+}
