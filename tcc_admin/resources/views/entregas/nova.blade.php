@@ -21,7 +21,7 @@
 
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 
-    <title>Urban Spin - Cadastros </title>
+    <title>Urban Spin - Entregas </title>
 </head>
 
 <h1>Registro de Entregas</h1>

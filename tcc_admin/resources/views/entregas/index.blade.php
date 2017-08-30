@@ -45,6 +45,7 @@
 
         <th>Editar</th>
         <th>Excluir</th>
+        <th>Imprevistos</th>
 
 
         </thead>
@@ -91,6 +92,19 @@
 
             </td>
 
+            <td>
+
+                <form class="form-horizontal" action = "{{route('imprevisto.index')}}">
+                <input type = "hidden" name = "_token" value = "<?php echo csrf_token() ?>">
+
+                <div class="form-group">
+                    <div class="col-sm-offset-3 col-sm-2">
+                        <button type="submit" class="btn btn-primary btn-md del">In</button>
+                    </div>
+                </div>
+                </form>
+
+            </td>
         </tr>
 
         {{--@empty--}}
@@ -100,8 +114,6 @@
 
         {{--@endforelse--}}
     </table>
-
-
 
 
     </body>

@@ -43,3 +43,6 @@ Route:: resource('/entregador', 'entregadorController');
 
 //Rota Entregas
 Route:: resource('/entregas', 'entregaController');
+
+//Rota Imprevistos
+Route:: resource('/imprevisto', 'imprevistoController');

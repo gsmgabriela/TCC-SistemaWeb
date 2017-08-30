@@ -11,7 +11,6 @@
 }
 
 .novab{
-
     width: 10em;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -54,17 +53,13 @@
 
 .opcoesBuscaEntrega {
     width: 70%;
-    margin-top: -8em;
+    margin-top: -10em;
     float: left;
     margin-left:10%;
     margin-right:10%;
 
 }
-/*.superiorEntrega{*/
-    /*height: 8em;*/
-    /*padding-bottom: 3em;*/
-    /*background-color: #23527c;*/
-/*}*/
+
 .opcoesBuscaEntrega select{
 
     width:18em;
@@ -82,13 +77,12 @@
     margin-top: 3px;
 }
 
-/*.opcoesBuscaEntrega  button{*/
-    /*margin-top: -7.2em;*/
-    /*margin-left: 58em;*/
-/*}*/
+
+
+/* FORMULÁRIOS NOVOS CADASTROS*/
 
 .formAddEntrega{
-    margin-top: -14.5em;
+    margin-top: -17em;
     margin-left: 82%;
 }
 
@@ -128,12 +122,37 @@
 
 }
 
+/*FORMULÁRIO DE IMPREVISTOS*/
 
+.formImprevisto{
+    margin-top: 9em;
+    margin-left: 10%;
+
+}
+.formImprevisto textarea{
+    margin-left: 2px;
+    width: 88%;
+    height: 8em;
+}
+.formImprevisto button {
+    margin-left: 16%;
+    margin-top: 1%;
+    width: 50%;
+}
+
+
+
+
+/* TÍTULO TABELAS*/
 .tituloTabela{
     text-align: center;
     background-color: lightyellow;
 }
 
+
+
+
+/* POSIÇÃO TABELAS*/
 
 .posTable{
     width: 80%;
